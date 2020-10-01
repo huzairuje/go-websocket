@@ -1,3 +1,3 @@
-Name: [Muhammad Huzair](https://github.com/huzairuje)
-Place: Bandung.
-About: Hi, I'm Huzairuje. I'm a software engineer who is passionate about making open-source more accessible.
+Name: [Muhammad Huzair](https://github.com/huzairuje) <br/>
+Place: Bandung. <br/>
+About: Hi, I'm Huzairuje. I'm a software engineer <br/>
